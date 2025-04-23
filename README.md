@@ -1,5 +1,5 @@
 # apnacollege-demo
 Learning how to create repository
 <br>
-Author - Mehrukh
+Author - Mehrukh kamal
 
